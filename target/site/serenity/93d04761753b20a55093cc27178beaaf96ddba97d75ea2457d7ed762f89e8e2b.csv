@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Verify the functionality of television landing page","Verify ClearAll button clears the filters","SUCCESS","2017-05-14T15:04:09.300+01:00","0.0","17.76"
+"Verify the functionality of television landing page","Verify I can only add maximum 4 tv’s for comparison","SUCCESS","2017-05-14T15:02:51.060+01:00","0.0","25.45"
+"Verify the functionality of television landing page","Verify default sort of Most-recently tested first","SUCCESS","2017-05-14T15:05:14.324+01:00","0.0","44.76"
+"Verify the functionality of television landing page","Verify filter for brands","SUCCESS","2017-05-14T15:03:17.878+01:00","0.0","51.2"
+"Verify the functionality of television landing page","Verify sort works for price low to high","SUCCESS","2017-05-14T15:04:27.271+01:00","0.0","46.85"
